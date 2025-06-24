@@ -1,0 +1,14 @@
+.venv
+
+*.pyc
+
+__pycahe__/
+/__pycache__
+
+chromedriver-win64/
+mod/
+
+*.csv
+*.exe
+*.xls
+*.xlsx
